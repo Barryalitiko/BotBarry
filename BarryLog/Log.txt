@@ -1,0 +1,2 @@
+# Archivo de log del bot
+# Aquí se guardarán los mensajes de log y errores
