@@ -3,28 +3,6 @@
 ## Descripción
 Barry Bot es un bot de WhatsApp diseñado para interactuar con los usuarios en grupos y chats privados. Ofrece comandos personalizados y respuestas automáticas, además de un sistema de monedas.
 
-## Estructura del Proyecto
-
-├── Data/
-│   └── coins.json
-│   └── userData.json
-├── Imagenes/
-│   ├── BarryBasic.jpg
-│   ├── BarryCoins.jpg
-│   ├── BarryError.jpg
-│   ├── BarryOff.jpg
-│   └── IMG-20240922-WA0004.jpg
-├── Log/
-│   └── log.txt
-├── Readme.md
-├── Scripts/
-│   ├── commands.js
-│   ├── events.js
-│   └── main.js
-└── Src/
-├── bot.js
-└── config.js
-
 ## Instalación
 1. Clona el repositorio:
 
